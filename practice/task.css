@@ -99,7 +99,6 @@ button:hover{
   text-align: center;
 }
 
-/* Mobile */
 @media (max-width: 767px) {
   .grid {
     grid-template-columns: repeat(2, 1fr); 
